@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/sonalisharma1012/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sonalisharma1012/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/sonalisharma1012/Leetcode/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/sonalisharma1012/Leetcode/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/sonalisharma1012/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sonalisharma1012/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/sonalisharma1012/Leetcode/tree/master/0118-pascals-triangle) |
+| [0283-move-zeroes](https://github.com/sonalisharma1012/Leetcode/tree/master/0283-move-zeroes) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/sonalisharma1012/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 ## Sorting
 |  |
