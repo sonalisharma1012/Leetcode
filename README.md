@@ -41,9 +41,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/sonalisharma1012/Leetcode/tree/master/0118-pascals-triangle) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/sonalisharma1012/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 ## Sorting
 |  |
 | ------- |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/sonalisharma1012/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/sonalisharma1012/Leetcode/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
