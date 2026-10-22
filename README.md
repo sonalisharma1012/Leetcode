@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/sonalisharma1012/Leetcode/tree/master/0118-pascals-triangle) |
 | [0283-move-zeroes](https://github.com/sonalisharma1012/Leetcode/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/sonalisharma1012/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/sonalisharma1012/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 ## Sorting
 |  |
