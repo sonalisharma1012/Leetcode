@@ -12,12 +12,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/sonalisharma1012/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/sonalisharma1012/Leetcode/tree/master/0202-happy-number) |
 ## Two Pointers
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/sonalisharma1012/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sonalisharma1012/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0189-rotate-array](https://github.com/sonalisharma1012/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/sonalisharma1012/Leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/sonalisharma1012/Leetcode/tree/master/0283-move-zeroes) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sonalisharma1012/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/sonalisharma1012/Leetcode/tree/master/0118-pascals-triangle) |
+| [0189-rotate-array](https://github.com/sonalisharma1012/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/sonalisharma1012/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/sonalisharma1012/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/sonalisharma1012/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
