@@ -49,10 +49,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/sonalisharma1012/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/sonalisharma1012/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/sonalisharma1012/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0561-array-partition](https://github.com/sonalisharma1012/Leetcode/tree/master/0561-array-partition) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/sonalisharma1012/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 ## Sorting
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/sonalisharma1012/Leetcode/tree/master/0561-array-partition) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/sonalisharma1012/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 ## Dynamic Programming
 |  |
@@ -62,4 +64,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sonalisharma1012/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+## Greedy
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/sonalisharma1012/Leetcode/tree/master/0561-array-partition) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/sonalisharma1012/Leetcode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
