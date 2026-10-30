@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/sonalisharma1012/Leetcode/tree/master/0054-spiral-matrix) |
 | [0118-pascals-triangle](https://github.com/sonalisharma1012/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/sonalisharma1012/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0189-rotate-array](https://github.com/sonalisharma1012/Leetcode/tree/master/0189-rotate-array) |
@@ -74,4 +75,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/sonalisharma1012/Leetcode/tree/master/0561-array-partition) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/sonalisharma1012/Leetcode/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/sonalisharma1012/Leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
