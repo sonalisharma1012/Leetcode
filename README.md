@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/sonalisharma1012/Leetcode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/sonalisharma1012/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0189-rotate-array](https://github.com/sonalisharma1012/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/sonalisharma1012/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/sonalisharma1012/Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/sonalisharma1012/Leetcode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/sonalisharma1012/Leetcode/tree/master/0119-pascals-triangle-ii) |
 ## String
 |  |
 | ------- |
